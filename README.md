@@ -21,4 +21,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abigeddi&show_icons=true&locale=en" alt="abigeddi" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abigeddi&" alt="abigeddi" /></p>
-[![abigeddi 42 stats](https://badge42.herokuapp.com/api/stats/abigeddi?privacyName=true)
+[![abigeddi 42 stats](https://badge42.herokuapp.com/api/stats/abigeddi)
