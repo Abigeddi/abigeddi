@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning **c. c++**
 
 - 📫 How to reach me **bigeddi1991@gmail.com**
-- <img src="https://badge.mediaplus.ma/binary/iel-bakk" alt="abigeddi 42" width="500">
+- <img src="https://badge.mediaplus.ma/binary/abigeddi" alt="abigeddi 42" width="500">
 
 - ⚡ Fun fact **no fun fact.**
 
