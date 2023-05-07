@@ -3,10 +3,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abigeddi&label=Profile%20views&color=0e75b6&style=flat" alt="abigeddi" /> </p>
 
-- 🌱 I’m currently learning **c.**
+- 🌱 I’m currently learning **c. c++**
 
 - 📫 How to reach me **bigeddi1991@gmail.com**
-- [![abigeddi 42 stats](https://badge42.herokuapp.com/api/stats/abigeddi)
+- <img src="https://badge.mediaplus.ma/binary/iel-bakk" alt="abigeddi 42" width="500">
 
 - ⚡ Fun fact **no fun fact.**
 
